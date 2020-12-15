@@ -1,5 +1,5 @@
 # Project List
-* Repositories are private due to course plagiarism policy
+* Repositories are private due to course plagiarism policy. For more information, please reach out to pcreighton429@gmail.com.
 
 **Lab 1:** *Verilog* - ADDing and ANDing on De1-SoC
 
