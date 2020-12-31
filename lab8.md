@@ -3,7 +3,7 @@
 * Test using assembler in `sas.zip`
     * Provided by UBC CPEN 211 2020W
 * Optimized finite state machine
-    * Ranked 4th out of 56 passing submissions based on clock frequency and execution time
+    * Acheived the 4th highest speedup out of 94+ submissions
 
 ## Supported Instructions
 ![Alt text](Images/Instructions1.png?raw=true "Datapath")
